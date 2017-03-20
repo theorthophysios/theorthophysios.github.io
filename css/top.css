@@ -14,8 +14,8 @@ padding: 0;
 #menupusher{min-height: 80px;}
 
 img:not(.jpg):not(.map){width: 100%;}
-.navbar-brand img {
-    width: 40%;
+
+.navbar-brand imgimg:not(.jpg):not(.map) {max-width: 300px;
 }
 
 .center-block {  
