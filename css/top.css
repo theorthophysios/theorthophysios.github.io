@@ -10,6 +10,9 @@ font-size : 1.6em;
 .navbar-brand {
 padding: 0;
 }
+.navbar-brand img {
+    width: 40%;
+}
 #menupusher{min-height: 80px;}
 
 img:not(.jpg):not(.map){width: 100%;}
